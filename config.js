@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'e8c74b2f0b54cbacf05fdd5fbed2751b', // Write here your API Key
@@ -86,6 +86,46 @@ const CONFIG = {
 			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://youtube.com/',
+		},
+	],
+
+	
+	secondButtonsContainer: [
+		{
+			id: '1',
+			name: 'Music',
+			icon: 'headphones',
+			link: 'https://open.spotify.com',
+		},
+		{
+			id: '2',
+			name: 'twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/',
+		},
+		{
+			id: '3',
+			name: 'bot',
+			icon: 'bot',
+			link: 'https://discord.com/app',
+		},
+		{
+			id: '4',
+			name: 'Amazon',
+			icon: 'shopping-bag',
+			link: 'https://amazon.com/',
+		},
+		{
+			id: '5',
+			name: 'Hashnode',
+			icon: 'pen-tool',
+			link: 'https://hashnode.com/',
+		},
+		{
+			id: '6',
+			name: 'Figma',
+			icon: 'figma',
+			link: 'https://figma.com/',
 		},
 	],
 
