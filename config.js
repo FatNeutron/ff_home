@@ -19,7 +19,7 @@ const CONFIG = {
 	// Greetings
 	greetingMorning: 'Damn! You are up early today,',
 	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
+	greetingEvening: 'Time for snacks!,',
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
@@ -27,7 +27,7 @@ const CONFIG = {
 
 	// Weather
 	weatherKey: 'e8c74b2f0b54cbacf05fdd5fbed2751b', // Write here your API Key
-	weatherIcons: 'Onedark', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
